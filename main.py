@@ -20,4 +20,4 @@ async def on_ready():
 for cog in COGS:
     bot.load_extension(cog)
 
-bot.run("ODE1ODE4Nzc4NzM4NTU2OTI5.YDx8cg.1J3e47tRu8FJn6K4kqVoUCv34Co")
+bot.run("put your token here")
