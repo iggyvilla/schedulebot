@@ -1,0 +1,205 @@
+{
+  "HEDCen G12 1st Trim": {
+    "Monday": {
+      "7:30 AM":  ["General Assembly", "8:00 AM"],
+      "8:00 AM":  ["Independent Study", "9:30 AM"],
+      "9:30 AM":  ["Recess", "10:00 AM"],
+      "10:00 AM": ["Communication Research", "11:00 AM"],
+      "11:00 AM": ["21st Century Literature", "12:00 PM"],
+      "12:00 PM": ["Lunch", "1:00 PM"],
+      "1:00 PM":  ["FPPL", "2:00 PM"],
+      "2:00 PM":  ["InqInvImm", "2:30 PM"],
+      "2:30 PM":  ["Second Recess", "3:00 PM"],
+      "3:00 PM":  ["Independent Study", "3:30 PM"],
+      "3:30 PM":  ["Career Advocacy i2", "4:00 PM"]
+    },
+    "Tuesday": {
+      "8:00 AM":  ["Independent Study", "9:30 AM"],
+      "9:30 AM":  ["Recess", "10:00 AM"],
+      "10:00 AM": ["Analytic Geometry & Calculus", "11:00 AM"],
+      "11:00 AM": ["Independent Study", "12:00 PM"],
+      "12:00 PM": ["Lunch", "1:00 PM"],
+      "1:00 PM":  ["UCSP", "2:00 PM"],
+      "2:00 PM":  ["Independent Study", "2:30 PM"],
+      "2:30 PM":  ["Second Recess", "3:00 PM"],
+      "3:00 PM":  ["PE Football", "3:30 PM"],
+      "3:30 PM":  ["Independent Study", "4:00 PM"]
+    },
+    "Wednesday": {
+      "8:00 AM":  ["Independent Study", "9:30 AM"],
+      "9:30 AM":  ["Recess", "10:00 AM"],
+      "10:00 AM": ["Communication Research i2", "11:00 AM"],
+      "11:00 AM": ["Independent Study", "12:00 PM"],
+      "12:00 PM": ["Lunch", "1:00 PM"],
+      "1:00 PM":  ["Independent Study", "2:00 PM"],
+      "2:00 PM":  ["InqInvImm", "2:30 PM"],
+      "2:30 PM":  ["Second Recess", "3:00 PM"],
+      "3:00 PM":  ["21st Century Literature", "4:00 PM"]
+    },
+    "Thursday": {
+      "8:00 AM":  ["Analytic Geometry & Calculus i2", "9:00 AM"],
+      "9:00 AM":  ["PE Dance", "9:30 AM"],
+      "9:30 AM":  ["Recess", "10:00 AM"],
+      "10:00 AM": ["Communication Research", "11:00 AM"],
+      "11:00 AM": ["21st Century Literature i2", "12:00 PM"],
+      "12:00 PM": ["Lunch", "1:00 PM"],
+      "1:00 PM":  ["SULAT", "1:30 PM"],
+      "1:30 PM":  ["SULAT i2", "2:00 PM"],
+      "2:00 PM":  ["InqInvImm", "2:30 PM"],
+      "2:30 PM":  ["Second Recess", "3:00 PM"],
+      "3:00 PM":  ["Independent Study", "3:30 PM"],
+      "3:30 PM":  ["Career Advocacy i2", "4:00 PM"]
+    },
+    "Friday": {
+      "8:00 AM":  ["Independent Study", "9:30 AM"],
+      "9:30 AM":  ["Recess", "10:00 AM"],
+      "10:00 AM": ["Analytic Geometry & Calculus", "11:00 AM"],
+      "11:00 AM": ["Independent Study", "12:00 PM"],
+      "12:00 PM": ["Lunch", "1:00 PM"],
+      "1:00 PM":  ["UCSP", "1:30 PM"],
+      "1:30 PM":  ["UCSP i2", "2:00 PM"],
+      "2:00 PM":  ["InqInvImm", "2:30 PM"],
+      "2:30 PM":  ["Second Recess", "3:00 PM"],
+      "3:00 PM":  ["PE Football", "3:30 PM"],
+      "3:30 PM":  ["Club", "4:30 PM"]
+    }
+  },
+  "HEDCen G12 2nd Trim": {
+    "Monday": {
+      "7:30 AM":  ["General Assembly", "8:00 AM"],
+      "8:00 AM":  ["Independent Study", "8:30 AM"],
+      "8:30 AM":  ["Personal Development", "9:30 AM"],
+      "9:30 AM":  ["Recess", "10:00 AM"],
+      "10:00 AM": ["Broadcast Communication", "11:00 AM"],
+      "11:00 AM": ["Production II (Video/Film)", "12:00 PM"],
+      "12:00 PM": ["Lunch", "1:00 PM"],
+      "1:00 PM":  ["FPPL", "2:00 PM"],
+      "2:00 PM":  ["InqInvImm", "2:30 PM"],
+      "2:30 PM":  ["Second Recess", "3:00 PM"],
+      "3:00 PM":  ["Independent Study", "3:30 PM"],
+      "3:30 PM":  ["Career Advocacy i2", "4:00 PM"]
+    },
+    "Tuesday": {
+      "8:00 AM":  ["Independent Study", "9:30 AM"],
+      "9:30 AM":  ["Recess", "10:00 AM"],
+      "10:00 AM": ["Analytic Geometry & Calculus", "11:00 AM"],
+      "11:00 AM": ["Independent Study", "12:00 PM"],
+      "12:00 PM": ["Lunch", "1:00 PM"],
+      "1:00 PM":  ["UCSP", "2:00 PM"],
+      "2:00 PM":  ["Independent Study", "2:30 PM"],
+      "2:30 PM":  ["Second Recess", "3:00 PM"],
+      "3:00 PM":  ["PE Football", "3:30 PM"],
+      "3:30 PM":  ["Independent Study", "4:00 PM"]
+    },
+    "Wednesday": {
+      "8:00 AM":  ["Independent Study", "8:30 AM"],
+      "8:30 AM":  ["Personal Development", "9:00 AM"],
+      "9:00 AM":  ["Personal Development i2", "9:30 AM"],
+      "9:30 AM":  ["Recess", "10:00 AM"],
+      "10:00 AM": ["Broadcast Communication i2", "11:00 AM"],
+      "11:00 AM": ["Intro to Philo", "12:00 PM"],
+      "12:00 PM": ["Lunch", "1:00 PM"],
+      "1:00 PM":  ["Independent Study", "2:00 PM"],
+      "2:00 PM":  ["InqInvImm i2", "2:30 PM"],
+      "2:30 PM":  ["Second Recess", "3:00 PM"],
+      "3:00 PM":  ["Production II (Video/Film) i2", "4:00 PM"]
+    },
+    "Thursday": {
+      "8:00 AM":  ["Analytic Geometry & Calculus i2", "9:00 AM"],
+      "9:00 AM":  ["PE Dance", "9:30 AM"],
+      "9:30 AM":  ["Recess", "10:00 AM"],
+      "10:00 AM": ["Broadcast Communication", "11:00 AM"],
+      "11:00 AM": ["Production II (Video/Film)", "12:00 PM"],
+      "12:00 PM": ["Lunch", "1:00 PM"],
+      "1:00 PM":  ["SULAT", "1:30 PM"],
+      "1:30 PM":  ["SULAT i2", "2:00 PM"],
+      "2:00 PM":  ["InqInvImm", "2:30 PM"],
+      "2:30 PM":  ["Second Recess", "3:00 PM"],
+      "3:00 PM":  ["Independent Study", "3:30 PM"],
+      "3:30 PM":  ["Career Advocacy i2", "4:00 PM"]
+    },
+    "Friday": {
+      "8:00 AM":  ["Independent Study", "9:30 AM"],
+      "9:30 AM":  ["Recess", "10:00 AM"],
+      "10:00 AM": ["Analytic Geometry & Calculus", "11:00 AM"],
+      "11:00 AM": ["Intro to Philo", "11:30 AM"],
+      "11:30 AM": ["Intro to Philo i2", "12:00 PM"],
+      "12:00 PM": ["Lunch", "1:00 PM"],
+      "1:00 PM":  ["UCSP", "1:30 PM"],
+      "1:30 PM":  ["UCSP i2", "2:00 PM"],
+      "2:00 PM":  ["InqInvImm i2", "2:30 PM"],
+      "2:30 PM":  ["Second Recess", "3:00 PM"],
+      "3:00 PM":  ["PE Football", "3:30 PM"],
+      "3:30 PM":  ["Club", "4:30 PM"]
+    }
+  }, 
+  "HEDCen G12 3rd Trim": {
+  	"Monday": {
+		"7:30 AM": ["General Assembly", "8:00 AM"],
+		"8:00 AM": ["Independent Study", "8:30 AM"],
+		"8:30 AM": ["Personal Development", "9:30 AM"],
+		"9:30 AM": ["Recess", "10:00 AM"],
+		"10:00 AM": ["Humans and Sus", "11:00 AM"],
+		"11:00 AM": ["Independent Study", "12:00 PM"],
+		"12:00 PM": ["Lunch", "1:00 PM"],
+		"1:00 PM": ["Independent Study", "2:00 PM"],
+		"2:00 PM": ["InqInvImm", "2:30 PM"],
+		"2:30 PM": ["Second Recess", "3:00 PM"],
+		"3:00 PM": ["Independent Study", "3:30 PM"],
+		"3:30 PM": ["Career Advocacy i2", "4:00 PM"]
+  	},
+  	"Tuesday": {
+		"8:00 AM": ["Independent Study", "9:30 AM"],
+		"9:30 AM": ["Recess", "10:00 AM"],
+		"10:00 AM": ["Analytic Geometry & Calculus", "11:00 AM"],
+		"11:00 AM": ["Independent Study", "12:00 PM"],
+		"12:00 PM": ["Lunch", "1:00 PM"],
+		"1:00 PM": ["UCSP", "2:00 PM"],
+		"2:00 PM": ["Independent Study", "2:30 PM"],
+		"2:30 PM": ["Second Recess", "3:00 PM"],
+		"3:00 PM": ["PE Football", "3:30 PM"],
+		"3:30 PM": ["Independent Study", "4:00 PM"]
+  	},
+  	"Wednesday": {
+		"8:00 AM": ["Independent Study", "8:30 AM"],
+		"8:30 AM": ["Personal Development", "9:00 AM"],
+		"9:00 AM": ["Personal Development i2", "9:30 AM"],
+		"9:30 AM": ["Recess", "10:00 AM"],
+		"10:00 AM": ["Humans and Sus i2", "11:00 AM"],
+		"11:00 AM": ["Intro to Philo", "12:00 PM"],
+		"12:00 PM": ["Lunch", "1:00 PM"],
+		"1:00 PM": ["Independent Study", "2:00 PM"],
+		"2:00 PM": ["InqInvImm i2", "2:30 PM"],
+		"2:30 PM": ["Second Recess", "3:00 PM"],
+		"3:00 PM": ["Independent Study", "4:00 PM"]
+  	},
+  	"Thursday": {
+		"8:00 AM": ["Analytic Geometry & Calculus i2", "9:00 AM"],
+		"9:00 AM": ["PE Dance", "9:30 AM"],
+		"9:30 AM": ["Recess", "10:00 AM"],
+		"10:00 AM": ["Humans and Sus", "11:00 AM"],
+		"11:00 AM": ["Independent Study", "12:00 PM"],
+		"12:00 PM": ["Lunch", "1:00 PM"],
+		"1:00 PM": ["Independent Study", "2:00 PM"],
+		"2:00 PM": ["InvInqImm", "2:30 PM"],
+		"2:30 PM": ["Second Recess", "3:00 PM"],
+		"3:00 PM": ["Independent Study", "3:30 PM"],
+		"3:30 PM": ["Career Advocacy i2", "4:00 PM"]
+  	},
+  	"Friday": {
+		"8:00 AM": ["Independent Study", "9:30 AM"],
+		"9:30 AM": ["Recess", "10:00 AM"],
+		"10:00 AM": ["Analytic Geometry & Calculus", "11:00 AM"],
+		"11:00 AM": ["Intro to Philo i2", "11:30 AM"],
+		"11:30 AM": ["Intro to Philo", "12:00 PM"],
+		"12:00 PM": ["Lunch", "1:00 PM"],
+		"1:00 PM": ["UCSP", "1:30 PM"],
+		"1:30 PM": ["UCSP i2", "2:00 PM"],
+		"2:00 PM": ["InvInqImm i2", "2:30 PM"],
+		"2:30 PM": ["Second Recess", "3:00 PM"],
+		"3:00 PM": ["PE Football", "3:30 PM"],
+		"3:30 PM": ["Clubs", "4:30 PM"]
+  	}
+  
+  }
+}
